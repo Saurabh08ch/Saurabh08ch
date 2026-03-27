@@ -68,3 +68,10 @@ I have 4+ years of trading experience and I’m currently building tools for tra
 [![](https://visitcount.itsvg.in/api?id=AryaBandhu&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LondheShubham153&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
